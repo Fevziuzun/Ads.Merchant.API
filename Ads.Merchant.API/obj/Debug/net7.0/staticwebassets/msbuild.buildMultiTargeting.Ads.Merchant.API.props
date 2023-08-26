@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ads.Merchant.API.props" />
+</Project>

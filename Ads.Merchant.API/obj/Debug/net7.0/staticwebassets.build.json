@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lpAANhVFMuGmEmDTc5MVrluGxkcK+7F7jLhcm2X6XL0=",
+  "Source": "Ads.Merchant.API",
+  "BasePath": "_content/Ads.Merchant.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
